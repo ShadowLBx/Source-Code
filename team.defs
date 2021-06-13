@@ -1,0 +1,17 @@
+#Sun Jun 13 21:21:54 CEST 2021
+bluej.teamsettings.groupname=
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.yourName=BoehlerBenedikt
+bluej.teamsettings.git.server=github.com
+bluej.teamsettings.yourEmail=boehler.benedikt@gmx.de
+bluej.teamsettings.git.repositoryPrefix=/ShadowLBx/Source-Code
+bluej.teamsettings.vcs=git
+bluej.teamsettings.user=boehler.benedikt@gmx.de
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.ignore8=\\.DS_Store
